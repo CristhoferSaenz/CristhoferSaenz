@@ -2,11 +2,11 @@
 
 # 👋 Hola, soy Cristhofer Alexis Saenz Gonzalez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Python+Developer+%26+Network+Automation;IoT%2C+Redes+%26+Procesamiento+de+Se%C3%B1ales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Python+Full+Stack+Developer;Network+Automation+%26+IoT)](https://git.io/typing-svg)
 
 ---
 
-### 📡 Telecomunicaciones | 🐍 Python | 🌐 Redes & Automatización
+### 📡 Telecomunicaciones | 🐍 Python Full Stack | 🌐 Redes & Automatización
 
 </div>
 
@@ -14,22 +14,26 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 **Formación:** Telecomunicaciones en la Universidad Nacional de San Agustín (UNSA).
-- 🐍 **Especialidad:** Desarrollo en **Python** enfocado en automatización de redes, procesamiento de datos/señales y desarrollo de herramientas backend.
-- 📡 **Áreas de Interés:** Redes Definidas por Software (SDN), Telecomunicaciones Móviles, Arquitecturas IoT y Sistemas Embebidos.
-- ⚙️ **Enfocado en:** Escribir código limpio, eficiente y escalable aplicando buenas prácticas de ingeniería.
+- 🎓 **Formación Académica:** Ingeniería de Telecomunicaciones en la Universidad Nacional de San Agustín (**UNSA**).
+- 🚀 **Especialización en Curso:** Desarrollo Web **Full Stack con Python** (E-learning) en **TECSUP**.
+- 🐍 **Especialidad:** Desarrollo con **Python** enfocado en aplicaciones web full stack, automatización de redes y procesamiento de datos.
+- 📡 **Áreas de Interés:** Redes Definidas por Software (SDN), Telecomunicaciones Móviles, Arquitecturas IoT y Desarrollo Web Backend/Frontend.
+- ⚙️ **Enfocado en:** Escribir código limpio, modular y escalable aplicando buenas prácticas de ingeniería.
 
 <br>
 
 ## 🛠️ Stack Tecnológico
 
-### 🐍 Lenguajes & Backend
+### 🐍 Lenguajes & Desarrollo Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📡 Telecomunicaciones & Redes
+### 📡 Telecomunicaciones & Dev Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EC1?style=for-the-badge&logo=wireshark&logoColor=white)
